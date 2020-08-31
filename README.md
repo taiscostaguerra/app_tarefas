@@ -1,3 +1,6 @@
+Este aplicativo foi desenvolvido durante o curso "Criação de Apps Android e iOS com Flutter - Crie 16 Apps" pela estudante Taís da Costa Guerra.
+
+
 # app_tarefas
 
 A new Flutter project.
